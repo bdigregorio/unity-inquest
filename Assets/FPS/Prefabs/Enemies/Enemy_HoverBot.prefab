@@ -467,7 +467,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DetectionSourcePoint: {fileID: 6571005840976436832}
-  DetectionRange: 20
+  DetectionRange: 30
   AttackRange: 10
   KnownTargetTimeout: 12
   Animator: {fileID: 0}
@@ -774,7 +774,7 @@ MonoBehaviour:
   WeaponRoot: {fileID: 8815063736924141185}
   WeaponMuzzle: {fileID: 2096565386399891227}
   ShootType: 1
-  ProjectilePrefab: {fileID: 8924682559891268397, guid: ec753d54f333bb944b8b04884ad63828,
+  ProjectilePrefab: {fileID: 8924682559891268397, guid: 5d95387c59e92e84484c8c474c18d3ba,
     type: 3}
   DelayBetweenShots: 0.8
   BulletSpreadAngle: 0
